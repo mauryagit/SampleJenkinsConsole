@@ -1,0 +1,7 @@
+C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe.config
+C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe
+C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.pdb
+C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csprojAssemblyReference.cache
+C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
+C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb
