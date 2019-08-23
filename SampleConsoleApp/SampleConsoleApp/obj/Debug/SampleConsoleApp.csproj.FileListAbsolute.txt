@@ -5,3 +5,15 @@ C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.c
 C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.CoreCompileInputs.cache
 C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
 C:\Project\DevOps\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe.config
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.pdb
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csprojAssemblyReference.cache
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\bin\Debug\Aspose.Cells.dll
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\bin\Debug\Aspose.Cells.xml
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.CopyComplete
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\bin\Debug\Aspose.Words.dll
+C:\Users\RMauryaX0102376\Source\repos\mauryagit\SampleJenkinsConsole\SampleConsoleApp\SampleConsoleApp\bin\Debug\Aspose.Words.xml
