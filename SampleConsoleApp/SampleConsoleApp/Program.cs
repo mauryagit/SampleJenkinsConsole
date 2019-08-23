@@ -10,7 +10,7 @@ namespace SampleConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from MicroSoft World...6");
+            Console.WriteLine("Hello from MicroSoft World...2");
         }
     }
 }
